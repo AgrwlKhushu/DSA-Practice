@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
