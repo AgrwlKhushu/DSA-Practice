@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
