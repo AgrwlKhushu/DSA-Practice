@@ -27,6 +27,7 @@
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -69,4 +70,9 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Greedy
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
