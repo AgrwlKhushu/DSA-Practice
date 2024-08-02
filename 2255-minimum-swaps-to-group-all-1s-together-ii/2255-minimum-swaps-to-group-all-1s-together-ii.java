@@ -11,8 +11,6 @@ class Solution {
             if(j>=k-1)min=Math.min(min,k-sum);
         }
         for(int i=0;i<=k-2;i++){
-            //length-k,...,length-1
-            //length-k+1 - 0; length-k+2 - 1; length-k+3 - 2;
             sum=sum+nums[i]-nums[nums.length-k+i];
             min=Math.min(min,k-sum);
         }
