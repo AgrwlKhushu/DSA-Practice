@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
 | ------- |
