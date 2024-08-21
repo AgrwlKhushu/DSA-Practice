@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
