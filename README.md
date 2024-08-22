@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0476-number-complement) |
 ## Recursion
 |  |
 | ------- |
