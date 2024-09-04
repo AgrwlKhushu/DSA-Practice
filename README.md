@@ -7,6 +7,7 @@
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -60,6 +61,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
