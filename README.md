@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0906-walking-robot-simulation) |
@@ -320,6 +321,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
@@ -348,6 +350,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -398,4 +401,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
