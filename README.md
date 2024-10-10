@@ -64,6 +64,7 @@
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -102,6 +103,7 @@
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1196-filling-bookcase-shelves](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
@@ -438,4 +440,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
