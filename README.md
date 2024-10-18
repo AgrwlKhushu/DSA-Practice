@@ -136,6 +136,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2411-spiral-matrix-iv) |
@@ -221,6 +222,7 @@
 | [0476-number-complement](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Recursion
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -470,4 +473,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
