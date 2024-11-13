@@ -100,6 +100,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -163,6 +164,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -408,6 +410,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -418,6 +421,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Union Find
 |  |
 | ------- |
