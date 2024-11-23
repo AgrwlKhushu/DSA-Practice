@@ -153,6 +153,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -293,6 +294,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -430,6 +432,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
