@@ -53,6 +53,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1304-longest-happy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -455,6 +456,7 @@
 | [0567-permutation-in-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
@@ -552,6 +554,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
