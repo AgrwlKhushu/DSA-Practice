@@ -132,6 +132,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
@@ -495,6 +496,7 @@
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -523,6 +525,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
+| [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
@@ -606,10 +609,12 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 ## Queue
 |  |
