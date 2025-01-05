@@ -67,6 +67,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2465-shifting-letters-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -188,6 +189,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -550,6 +552,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3427-special-array-ii) |
