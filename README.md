@@ -56,6 +56,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -159,6 +160,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -599,6 +601,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
