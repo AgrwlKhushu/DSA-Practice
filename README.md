@@ -137,6 +137,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0179-largest-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0179-largest-number) |
+| [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0539-minimum-time-difference](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -337,6 +338,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -476,6 +479,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
