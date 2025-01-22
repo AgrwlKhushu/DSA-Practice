@@ -182,6 +182,7 @@
 | [1755-defuse-the-bomb](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
@@ -352,6 +353,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
@@ -490,6 +492,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
