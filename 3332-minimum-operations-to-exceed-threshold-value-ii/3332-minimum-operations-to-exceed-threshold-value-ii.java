@@ -3,25 +3,23 @@ class Solution {
         int res = 0;
         PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] < k){
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < k)
                 pq.add(nums[i]);
-            }
         }
 
         long x, y;
-        while(!pq.isEmpty()){
+        while (!pq.isEmpty()) {
             res++;
             x = pq.poll();
 
-            if(pq.isEmpty()){
+            if (pq.isEmpty())
                 break;
-            }
 
             y = pq.poll();
             long val = (long) x * 2 + y;
 
-            if(val < k){
+            if (val < k) {
                 pq.add((int) val);
             }
         }
