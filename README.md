@@ -86,6 +86,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2502-sort-the-people) |
@@ -116,6 +117,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3447-clear-digits) |
@@ -426,6 +428,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -658,6 +661,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
