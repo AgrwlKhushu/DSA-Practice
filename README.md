@@ -19,6 +19,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -300,6 +301,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -313,6 +315,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -330,6 +333,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1558-course-schedule-iv) |
@@ -557,6 +561,7 @@
 | [0820-find-eventual-safe-states](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -646,6 +651,7 @@
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2434-design-a-number-container-system) |
