@@ -250,6 +250,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -311,6 +312,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -350,6 +352,7 @@
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
@@ -463,6 +466,7 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3189-find-champion-ii) |
@@ -580,6 +584,7 @@
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
