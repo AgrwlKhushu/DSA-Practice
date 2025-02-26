@@ -211,6 +211,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -550,6 +551,7 @@
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
