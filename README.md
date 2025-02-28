@@ -71,6 +71,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
@@ -544,6 +545,7 @@
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
+| [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
