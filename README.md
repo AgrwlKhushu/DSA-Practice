@@ -46,6 +46,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -261,6 +262,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
@@ -629,6 +631,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
