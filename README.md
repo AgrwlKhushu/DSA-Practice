@@ -378,6 +378,7 @@
 | [0870-magic-squares-in-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
