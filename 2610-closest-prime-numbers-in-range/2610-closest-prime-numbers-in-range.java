@@ -1,40 +1,61 @@
 class Solution {
+
     public int[] closestPrimes(int left, int right) {
-        if (left > right) return new int[]{-1, -1};
+        List<Integer> primeNumbers = new ArrayList<>();
 
-        // Step 1: Sieve of Eratosthenes
-        boolean[] isPrime = new boolean[right + 1];
-        Arrays.fill(isPrime, true);
-        isPrime[0] = isPrime[1] = false;
-
-        for (int i = 2; i * i <= right; i++) {
-            if (isPrime[i]) {
-                for (int j = i * i; j <= right; j += i) {
-                    isPrime[j] = false;
+        // Find all prime numbers in the given range
+        for (int candidate = left; candidate <= right; candidate++) {
+            if (candidate % 2 == 0 && candidate > 2) {
+                continue;
+            }
+            if (isPrime(candidate)) {
+                // If a twin prime (or [2, 3]) is found, return immediately
+                if (
+                    !primeNumbers.isEmpty() &&
+                    candidate <= primeNumbers.get(primeNumbers.size() - 1) + 2
+                ) {
+                    return new int[] {
+                        primeNumbers.get(primeNumbers.size() - 1),
+                        candidate,
+                    };
                 }
+                primeNumbers.add(candidate);
             }
         }
 
-        // Step 2: Collect primes in range [left, right]
-        List<Integer> primes = new ArrayList<>();
-        for (int i = left; i <= right; i++) {
-            if (isPrime[i]) primes.add(i);
+        // If fewer than 2 primes exist, return {-1, -1}
+        if (primeNumbers.size() < 2) {
+            return new int[] { -1, -1 };
         }
 
-        // Step 3: If fewer than 2 primes exist, return [-1, -1]
-        if (primes.size() < 2) return new int[]{-1, -1};
-
-        // Step 4: Find the closest prime pair
-        int minDiff = Integer.MAX_VALUE, num1 = -1, num2 = -1;
-        for (int i = 1; i < primes.size(); i++) {
-            int diff = primes.get(i) - primes.get(i - 1);
-            if (diff < minDiff) {
-                minDiff = diff;
-                num1 = primes.get(i - 1);
-                num2 = primes.get(i);
+        // Find the closest prime pair
+        int[] closestPair = new int[] { -1, -1 };
+        int minDifference = 1000000;
+        for (int index = 1; index < primeNumbers.size(); index++) {
+            int difference =
+                primeNumbers.get(index) - primeNumbers.get(index - 1);
+            if (difference < minDifference) {
+                minDifference = difference;
+                closestPair = new int[] {
+                    primeNumbers.get(index - 1),
+                    primeNumbers.get(index),
+                };
             }
         }
 
-        return new int[]{num1, num2};
+        return closestPair;
+    }
+
+    // Function to check if a number is prime
+    private boolean isPrime(int number) {
+        if (number == 1) {
+            return false;
+        }
+        for (int divisor = 2; divisor <= (int) Math.sqrt(number); divisor++) {
+            if (number % divisor == 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
