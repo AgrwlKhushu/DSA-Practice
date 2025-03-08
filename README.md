@@ -96,6 +96,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2502-sort-the-people) |
@@ -619,6 +620,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
