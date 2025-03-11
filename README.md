@@ -21,6 +21,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -77,6 +78,7 @@
 | [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
@@ -621,6 +623,7 @@
 | [0567-permutation-in-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
