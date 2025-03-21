@@ -34,6 +34,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -98,6 +99,7 @@
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -243,6 +245,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -498,6 +501,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
@@ -513,6 +517,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
