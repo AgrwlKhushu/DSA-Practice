@@ -384,6 +384,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -634,6 +636,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
 |  |
@@ -711,6 +714,7 @@
 | [1396-count-servers-that-communicate](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
