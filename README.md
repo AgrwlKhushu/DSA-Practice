@@ -168,6 +168,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Array
 |  |
 | ------- |
@@ -308,6 +309,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
