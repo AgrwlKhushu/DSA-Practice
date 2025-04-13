@@ -434,6 +434,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
@@ -479,6 +480,7 @@
 | [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
