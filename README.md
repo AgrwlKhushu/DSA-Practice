@@ -447,6 +447,7 @@
 | [2050-count-good-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2649-count-total-number-of-colored-cells) |
@@ -665,6 +666,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -868,6 +870,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
@@ -952,5 +955,6 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
