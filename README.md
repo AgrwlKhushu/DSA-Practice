@@ -82,6 +82,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
+| [0868-push-dominoes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -667,6 +668,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
+| [0868-push-dominoes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
@@ -757,6 +759,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0868-push-dominoes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
