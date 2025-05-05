@@ -673,6 +673,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0664-strange-printer) |
+| [0806-domino-and-tromino-tiling](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1196-filling-bookcase-shelves) |
