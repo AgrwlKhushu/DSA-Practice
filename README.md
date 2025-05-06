@@ -264,6 +264,7 @@
 | [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
@@ -366,6 +367,7 @@
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
