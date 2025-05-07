@@ -355,6 +355,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -544,6 +545,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Greedy
 |  |
 | ------- |
@@ -593,6 +595,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -632,6 +635,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -707,6 +711,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Breadth-First Search
 |  |
 | ------- |
