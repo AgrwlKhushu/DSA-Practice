@@ -6,19 +6,19 @@ class Solution {
         short[] brd = new short[endPos+1];
         int brdPos = 1;
     
-        for(int row=n-1;row>=0;row--){
-            for(int col=0;col<n;col++){
-                brd[brdPos++]= (short) board[row][col];
+        for(int row = n - 1; row >= 0; row--){
+            for(int col = 0; col < n; col++){
+                brd[brdPos++] = (short) board[row][col];
             }
-            if(--row <0) { break;}
-            for(int col=n-1;col>=0;col--){
-                brd[brdPos++]=(short) board[row][col];
+            if(--row < 0) { break;}
+            for(int col = n - 1; col >= 0; col--){
+                brd[brdPos++] = (short) board[row][col];
             }
         }
 
         short[] bfsQ = new short[n*n];
-        int bfsQRead=0, bfsQWrite=0;
-        bfsQ[bfsQWrite++]=1;
+        int bfsQRead = 0, bfsQWrite = 0;
+        bfsQ[bfsQWrite++] = 1;
         int[] moves = new int[endPos+1];
         moves[1] = 1;
 
