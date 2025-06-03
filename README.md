@@ -223,6 +223,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
@@ -952,6 +953,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
