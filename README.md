@@ -216,6 +216,7 @@
 | [0040-combination-sum-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -745,6 +746,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0368-largest-divisible-subset) |
