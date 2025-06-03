@@ -80,6 +80,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
@@ -856,6 +857,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0868-push-dominoes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0868-push-dominoes) |
