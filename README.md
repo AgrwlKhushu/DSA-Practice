@@ -265,6 +265,7 @@
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1603-running-sum-of-1d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1656-count-good-triplets) |
@@ -957,6 +958,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
