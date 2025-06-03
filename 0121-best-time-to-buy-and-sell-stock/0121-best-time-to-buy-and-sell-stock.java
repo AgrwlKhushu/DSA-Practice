@@ -5,7 +5,7 @@ class Solution {
             if(prices[i] - prices[temp] > max){
                 max = prices[i] - prices[temp];
             }
-            if(prices[i] - prices[temp] < 1){
+            if(prices[i] - prices[temp] < 0){
                 temp = i;
             }
         }
