@@ -95,6 +95,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -914,6 +915,7 @@
 | ------- |
 | [0854-making-a-large-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
