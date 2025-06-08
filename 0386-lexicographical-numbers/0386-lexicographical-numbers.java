@@ -15,7 +15,9 @@ class Solution {
             int nextNum = curr * 10 + digit;
             if(nextNum <= limit){
                 generateSeries(nextNum, limit, ser);
-            } 
+            } else{
+                break;
+            }
         }
     }
 }
