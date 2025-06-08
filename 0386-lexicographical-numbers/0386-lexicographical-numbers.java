@@ -1,27 +1,21 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-        List<Integer> lexicographicalNumbers = new ArrayList<>();
-        for (int start = 1; start <= 9; ++start) {
-            generateLexicalNumbers(start, n, lexicographicalNumbers);
+        List<Integer> series = new ArrayList<>();
+        for(int i = 1; i <= 9; i++){
+            generateSeries(i, n, series);
         }
-        return lexicographicalNumbers;
+        return series;
     }
 
-    private void generateLexicalNumbers(
-        int currentNumber,
-        int limit,
-        List<Integer> result
-    ) {
-        if (currentNumber > limit) return;
-        result.add(currentNumber);
+    private void generateSeries(int curr, int limit, List<Integer> ser){
+        if(curr > limit) return;
+        ser.add(curr);
 
-        for (int nextDigit = 0; nextDigit <= 9; ++nextDigit) {
-            int nextNumber = currentNumber * 10 + nextDigit;
-            if (nextNumber <= limit) {
-                generateLexicalNumbers(nextNumber, limit, result);
-            } else {
-                break;
-            }
+        for(int digit = 0; digit <= 9; digit++){
+            int nextNum = curr * 10 + digit;
+            if(nextNum <= limit){
+                generateSeries(nextNum, limit, ser);
+            } 
         }
     }
 }
