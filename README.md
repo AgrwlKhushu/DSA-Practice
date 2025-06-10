@@ -282,6 +282,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -518,6 +519,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1500-count-largest-group) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2050-count-good-numbers) |
@@ -775,6 +777,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -983,6 +986,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
