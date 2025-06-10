@@ -393,6 +393,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3429-special-array-i) |
