@@ -127,6 +127,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -437,6 +438,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2155-find-missing-observations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2411-spiral-matrix-iv) |
