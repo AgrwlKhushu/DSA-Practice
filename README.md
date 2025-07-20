@@ -40,6 +40,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -124,6 +125,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -335,6 +337,7 @@
 | [2048-build-array-from-permutation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1150,12 +1153,14 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
