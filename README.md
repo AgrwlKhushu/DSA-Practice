@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
@@ -86,8 +86,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -175,8 +175,8 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -196,8 +196,8 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3447-clear-digits) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -248,8 +248,8 @@
 | [3647-zero-array-transformation-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0075-sort-colors) |
@@ -308,6 +308,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -462,8 +463,8 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0921-spiral-matrix-iii) |
@@ -485,8 +486,8 @@
 | [3447-clear-digits](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -508,8 +509,8 @@
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -525,8 +526,8 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -555,8 +556,8 @@
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
@@ -604,8 +605,8 @@
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -632,8 +633,8 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0273-integer-to-english-words) |
@@ -642,8 +643,8 @@
 | [2050-count-good-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
@@ -657,6 +658,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1876-map-of-highest-peak](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1876-map-of-highest-peak) |
@@ -679,8 +681,8 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0135-candy](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
@@ -694,6 +696,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2089-maximum-matrix-sum) |
@@ -726,8 +729,8 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -753,8 +756,8 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -763,14 +766,14 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -800,21 +803,21 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0948-sort-an-array) |
@@ -844,8 +847,8 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0264-ugly-number-ii) |
@@ -890,8 +893,8 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -904,8 +907,8 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0820-find-eventual-safe-states) |
@@ -935,13 +938,13 @@
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1511-count-number-of-teams](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1511-count-number-of-teams) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -967,8 +970,8 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -996,8 +999,8 @@
 | [3195-separate-black-and-white-balls](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -1028,8 +1031,8 @@
 | [3427-special-array-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0854-making-a-large-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0999-regions-cut-by-slashes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1041,12 +1044,12 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Strongly Connected Component
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -1057,17 +1060,17 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [1160-letter-tile-possibilities](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1079,8 +1082,8 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0724-find-pivot-index](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1110,12 +1113,12 @@
 | [3647-zero-array-transformation-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1240-stone-game-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1240-stone-game-ii) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
@@ -1125,32 +1128,32 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1524-string-matching-in-an-array) |
@@ -1158,14 +1161,14 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1174,38 +1177,38 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0729-my-calendar-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2434-design-a-number-container-system) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0859-design-circular-deque](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0432-all-oone-data-structure](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0432-all-oone-data-structure) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1002-maximum-width-ramp](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1656-count-good-triplets](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1219,13 +1222,13 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/3201-distribute-candies-among-children-ii) |
