@@ -120,6 +120,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
