@@ -123,6 +123,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
@@ -871,6 +872,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -954,6 +956,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
