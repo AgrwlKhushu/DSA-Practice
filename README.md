@@ -38,6 +38,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -127,6 +128,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -339,6 +341,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1972-rotating-the-box) |
+| [1980-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2048-build-array-from-permutation) |
@@ -1080,6 +1083,7 @@
 | [1160-letter-tile-possibilities](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/AgrwlKhushu/DSA-Practice/tree/master/2140-longest-subsequence-repeated-k-times) |
